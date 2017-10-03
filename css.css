@@ -1,0 +1,42 @@
+body{
+	
+font-family: "Monospace", fantasy;
+	
+color: #B82601;
+	background-color: #062F4F;
+	
+text-shadow: 1px 1px #FFF;
+	text-align: center;
+
+}
+
+
+
+h1 {
+	
+font-size: 1.3em;
+	
+text-align: center;
+	
+text-shadow: 1px 1px #ff0000;
+
+}
+
+
+td, th {
+    
+border: 1px solid #dddddd;
+    
+text-align: left;
+    
+padding: 8px;
+
+}
+
+
+
+tr:nth-child(even) {
+    
+background-color: #dddddd;
+
+}
